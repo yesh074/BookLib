@@ -1,0 +1,8 @@
+Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems.
+Chapter 1: Reliable, Scalable, and Maintainable Applications.
+Data-intensive applications are created from standard building blocks: databases, caches, search indexes, stream processing, and batch processing.
+Reliability means the system should continue to work correctly even in the face of hardware faults, software bugs, or human error.
+Scalability describes the system's ability to cope with increased load. Load parameters include requests per second, ratio of reads to writes, and active concurrent users.
+Maintainability involves operability (making it easy for operations teams to keep the system running smoothly), simplicity (abstracting complexity so new engineers can understand the code), and evolvability (making it easy to adapt the system to changing requirements in the future).
+Chapter 2: Data Models and Query Languages.
+Relational vs Document model. Relational database models organize data into tables with schemas, while document models allow hierarchical nested data structures. SQL provides a declarative query language where the optimizer determines the execution plan, contrasting with imperative languages.

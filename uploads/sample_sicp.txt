@@ -1,0 +1,4 @@
+Structure and Interpretation of Computer Programs (SICP).
+Building Abstractions with Procedures. Computational processes are abstract beings that inhabit computers. As they evolve, processes affect other computational elements.
+The elements of programming: Primitive expressions, Means of combination, and Means of abstraction.
+Higher-order procedures: Procedures that manipulate procedures. Linear recursion and iteration. Evaluating expressions using the substitution model.

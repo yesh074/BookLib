@@ -1,0 +1,13 @@
+{
+  "name": "bookmind-ai-root",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "install:all": "npm install && cd server && npm install && cd ../client && npm install",
+    "dev:server": "node server/src/index.js",
+    "dev:client": "node client/node_modules/vite/bin/vite.js --cwd client",
+    "dev": "node start.js",
+    "start": "node start.js"
+  }
+}
